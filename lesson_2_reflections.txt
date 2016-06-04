@@ -11,3 +11,7 @@ are going to commit to the next commit.
 Using the staging area helps you make logical
 changes to your files because it let's you pick
 and choose which files are ready to commit.
+
+Branches are useful when you want to make
+different versions of your programs and help
+keep those different versions orginized.
