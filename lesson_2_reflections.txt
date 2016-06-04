@@ -1,0 +1,9 @@
+When you initialize a directory with git,
+you are turning that directory into a git
+repository. Git will then be able to keep
+track of the history and make commits of
+your repository.
+
+The staging area is where you put all your
+files in your repository/directory that you
+are going to commit to the next commit.

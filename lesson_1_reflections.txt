@@ -1,0 +1,38 @@
+Using diff to find bugs is a lot easier than scrolling through hundreds
+or thousands of lines of code. After you figure out what the problem is
+you can usually use CTRL + F to find it in your file.
+
+Having the entire history of a file is extremely useful for any programmer.
+Especially if it's a large project being worked on by multiple people. It's
+useful for finding bugs in programs and it's also good to have if you need
+to fall back on an old version.
+
+Pros and cons of manually saving versus automatic saving:
+
+Manual
+Pros - Commits will make more sense
+Cons - Commits might be bad based on human error, like being to big or too
+small, or even forgetting to save in the first place.
+
+Automatic
+Pros - There will always be lots of versions of the software, and you don't
+have to worry about saving yourself.
+Cons - The commits might not make sense and might not even compile.
+
+Some software saves all files in one commit (like Git), and others save each
+file seperately (like Google Docs).
+
+Saving all files in one commit is good for coding programs, as it's likely
+that a project will have multiple files that all relate to each other. Saving
+each file individually is good for other files like essays that don't have
+other related files attached to them.
+
+You can use git log to view the history of commits to all the files in your
+project. You can use git diff to compare two commits.
+
+Version control is very helpful because even if you make a change that breaks
+your entire project (and you don't know how to fix it) you can always revert
+back to an earlier change.
+
+I am going to use git and version control to help me work on my bigger programming
+projects :)
