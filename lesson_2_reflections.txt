@@ -15,3 +15,14 @@ and choose which files are ready to commit.
 Branches are useful when you want to make
 different versions of your programs and help
 keep those different versions orginized.
+
+Diagrams can help you visualize branches in
+an easy and meaningful way.
+
+The pros of Git's automatic merging is that it
+makes it very easy for multiple people to work
+on different parts of the same project. However
+Git can't always guess the correct way to merge
+files, sometimes you will have to manually look
+at the code and decide what to keep in the final
+file by yourself.
