@@ -1,1 +1,4 @@
 REFLECTIONS!
+
+It's good to have a remote for your work in case something
+happens to your local copy.
