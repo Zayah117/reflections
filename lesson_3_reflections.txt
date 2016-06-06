@@ -2,3 +2,9 @@ REFLECTIONS!
 
 It's good to have a remote for your work in case something
 happens to your local copy.
+
+You might not want to have git automatically pull changes
+to your local machine. This is because other people may
+be working on the project at the same time as you, and
+they may be working on different parts of the project
+or different branches than you.
